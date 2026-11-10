@@ -31,7 +31,7 @@
 
 ## 部署
 
-本仓库已开启 GitHub Pages（main 分支，根目录），推送到 main 后自动更新：
+用 GitHub Pages 就能在线访问：在仓库 Settings → Pages 里，Source 选 Deploy from a branch，Branch 选 main、文件夹选根目录，保存后等一两分钟，访问：
 
 https://keiiiiigo.github.io/bazi-personality-test/
 
